@@ -8,7 +8,7 @@ Me chamo Douglas Eduardo Ribeiro, tenho 17 anos e sou natural de São José dos 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/dougllasoof?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/dougllasoof?tab=followers">
@@ -78,7 +78,7 @@ Me chamo Douglas Eduardo Ribeiro, tenho 17 anos e sou natural de São José dos 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dougllasoofh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=dougllasoof&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
